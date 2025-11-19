@@ -1,0 +1,8 @@
+h1 {
+    color: black;
+    transition: 0.3s;
+}
+
+.destacado {
+    color: red;
+}
