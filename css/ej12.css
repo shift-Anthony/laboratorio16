@@ -1,0 +1,11 @@
+#cuadrado {
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+}
+
+/* clase conJS */
+.mover {
+    transform: translateX(300px);
+    background-color: crimson;
+}
